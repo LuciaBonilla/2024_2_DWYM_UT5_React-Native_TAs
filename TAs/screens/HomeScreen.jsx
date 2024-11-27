@@ -35,6 +35,30 @@ function HomeScreen({ navigation }) {
                     title="TA7"
                     onPress={() => navigation.navigate("TA7")}
                 />
+                <Button
+                    title="TA8"
+                    onPress={() => navigation.navigate("TA8")}
+                />
+                <Button
+                    title="TA9"
+                    onPress={() => navigation.navigate("TA9")}
+                />
+                <Button
+                    title="TA10"
+                    onPress={() => navigation.navigate("TA10")}
+                />
+                <Button
+                    title="TA11"
+                    onPress={() => navigation.navigate("TA11")}
+                />
+                <Button
+                    title="TA12"
+                    onPress={() => navigation.navigate("TA12")}
+                />
+                <Button
+                    title="TA13"
+                    onPress={() => navigation.navigate("TA13")}
+                />
             </View>
         </SafeAreaView>
     );
